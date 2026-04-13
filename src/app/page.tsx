@@ -70,7 +70,7 @@ function Header() {
         {/* Logo */}
         <a href="#" className="flex items-center gap-3 group">
           <Logo />
-          <span className="text-white font-bold text-xl tracking-[0.1em] font-['Oswald'] uppercase">GAN Group</span>
+          <span className="text-white font-bold text-xl tracking-[0.1em] font-['Oswald']">GAN Group</span>
         </a>
 
         {/* Desktop Navigation */}
