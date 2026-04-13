@@ -183,14 +183,6 @@ function HeroSection() {
           </div>
         </div>
 
-        {/* Scroll Indicator */}
-        <div className="absolute bottom-10 left-1/2 -translate-x-1/2">
-          <a href="#about" className="flex flex-col items-center gap-2 text-white/50 hover:text-white transition-colors">
-            <span className="text-xs tracking-widest uppercase">Scroll</span>
-            <ArrowDown className="w-5 h-5 animate-bounce" />
-          </a>
-        </div>
-      </div>
 
       {/* Decorative Line */}
       <div className="absolute bottom-0 left-0 right-0 h-px bg-gradient-to-r from-transparent via-[#3A3F45] to-transparent" />
