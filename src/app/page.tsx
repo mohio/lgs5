@@ -88,7 +88,7 @@ function Header() {
             href="#contact"
             className="btn-primary text-xs px-6 py-3"
           >
-            Холбогдох
+            Захиалах
           </a>
         </nav>
 
