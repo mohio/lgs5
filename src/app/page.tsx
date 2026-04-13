@@ -142,7 +142,7 @@ function HeroSection() {
           loop
           muted
           playsInline
-          className="w-full h-full object-cover opacity-50"
+          className="w-full h-full object-cover opacity-10"
         >
           <source src="https://pub-4fd1372fe4174db1963cfd915801ba21.r2.dev/hero.mp4" type="video/mp4" />
           {/* Fallback image if video fails */}
