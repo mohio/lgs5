@@ -182,7 +182,8 @@ function HeroSection() {
             </a>
           </div>
         </div>
-
+      </div>
+      
       {/* Decorative Line */}
       <div className="absolute bottom-0 left-0 right-0 h-px bg-gradient-to-r from-transparent via-[#3A3F45] to-transparent" />
     </section>
