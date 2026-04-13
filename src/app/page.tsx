@@ -152,7 +152,6 @@ function HeroSection() {
             className="w-full h-full object-cover"
           />
         </video>
-        <div className="absolute inset-0 bg-gradient-to-r from-[#0B0B0B] via-[#0B0B0B]/70 to-transparent" />
         <div className="absolute inset-0 bg-gradient-to-t from-[#0B0B0B] via-transparent to-[#0B0B0B]/50" />
       </div>
 
